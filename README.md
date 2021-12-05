@@ -1,5 +1,11 @@
 # RS School REST service
 
+## Important note!
+
+Task still not ready for any cross check its only template now, 
+feel free to place fines. 
+
+***
 ## Prerequisites
 
 - Git - [Download & Install Git](https://git-scm.com/downloads).

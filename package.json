@@ -46,7 +46,10 @@
   "dependencies": {
     "cross-env": "7.0.3",
     "dotenv": "10.0.0",
-    "express": "4.17.1",
+    "koa": "^2.13.4",
+    "koa-ejs": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^10.1.1",
     "swagger-ui-express": "4.1.6",
     "uuid": "8.3.2",
     "yamljs": "0.3.0"
